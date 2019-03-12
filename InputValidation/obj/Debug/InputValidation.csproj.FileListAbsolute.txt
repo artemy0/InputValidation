@@ -1,0 +1,7 @@
+D:\IBA\InputValidation\InputValidation\InputValidation\bin\Debug\InputValidation.exe.config
+D:\IBA\InputValidation\InputValidation\InputValidation\bin\Debug\InputValidation.exe
+D:\IBA\InputValidation\InputValidation\InputValidation\bin\Debug\InputValidation.pdb
+D:\IBA\InputValidation\InputValidation\InputValidation\obj\Debug\InputValidation.csprojAssemblyReference.cache
+D:\IBA\InputValidation\InputValidation\InputValidation\obj\Debug\InputValidation.csproj.CoreCompileInputs.cache
+D:\IBA\InputValidation\InputValidation\InputValidation\obj\Debug\InputValidation.exe
+D:\IBA\InputValidation\InputValidation\InputValidation\obj\Debug\InputValidation.pdb
